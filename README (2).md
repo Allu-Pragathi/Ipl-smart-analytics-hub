@@ -140,6 +140,5 @@ Reconnect data source to your local MySQL if prompted
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn Profile URL]  
-[GitHub Profile URL]
+**[Allu Pragathi]**  
+[https://www.linkedin.com/in/allu-pragathi-0a3362259/]  
