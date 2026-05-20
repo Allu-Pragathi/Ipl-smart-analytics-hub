@@ -1,9 +1,3 @@
--- ============================================================
---  IPL SMART ANALYTICS HUB
---  Step 1: Create Database & Tables
---  Tool   : MySQL Workbench 8.0
--- ============================================================
-
 CREATE DATABASE IF NOT EXISTS ipl_analytics;
 USE ipl_analytics;
 
